@@ -1,4 +1,4 @@
-# Master paper code: mobileNet V2 & DeepLabv3+（Pytorch框架实现）
+# Master paper code: mobileNet V2 & DeepLabv3+
 
 
 
